@@ -32,9 +32,11 @@ section {
 h1 {
 	color: #E4E4E4;
 	text-transform: uppercase;
+	font-weight: 400;
 }
 h2 {
 	color: #747474;
+	font-weight: 400;
 }
 h5 {
 	color: #F4F4F4;
