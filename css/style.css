@@ -341,8 +341,8 @@ nav {
     left: 5%;
     margin-top: 20px;
 }
-.carousel-item {
-	margin-left: 16px;
+.carousel-inner {
+    margin-left: 0px;
 }
 .price-two-content {
 	text-align: center;
